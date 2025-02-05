@@ -28,4 +28,4 @@ This repository contains my code and notes from the **OpenCV Course** by freeC
 - Gradients and edge detection
 
 ### Section 3 - Faces
-- coming soon
+- Face Detection with Haar Cascades
