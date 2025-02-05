@@ -24,6 +24,7 @@ This repository contains my code and notes from the **OpenCV Course** by freeC
 - Blurring Techniques
 - Bitwise Operations
 - Masking
+- Computing Histograms
 
 ### Section 3 - Faces
 - coming soon
