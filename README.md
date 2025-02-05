@@ -25,6 +25,7 @@ This repository contains my code and notes from the **OpenCV Course** by freeC
 - Bitwise Operations
 - Masking
 - Computing Histograms
+- Gradients and edge detection
 
 ### Section 3 - Faces
 - coming soon
