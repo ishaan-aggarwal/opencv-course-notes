@@ -39,3 +39,4 @@ cv.imshow('Red', red)
 # again lighter regions represent higher concentrations of that color, this is just to visualize in that color instead of grayscale
 
 cv.waitKey(0)
+cv.destroyAllWindows()

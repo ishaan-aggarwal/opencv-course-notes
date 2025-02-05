@@ -68,3 +68,4 @@ cv.imshow('Flipped', flip)
 # done in 03_basic_functions
 
 cv.waitKey(0)
+cv.destroyAllWindows()

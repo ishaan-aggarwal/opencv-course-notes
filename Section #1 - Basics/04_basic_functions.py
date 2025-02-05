@@ -48,3 +48,4 @@ cv.imshow('Cropped', cropped)
 
 
 cv.waitKey(0)
+cv.destroyAllWindows()

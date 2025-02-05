@@ -35,3 +35,4 @@ cv.imshow('Circle NOT', bitw_not)
  # inverts the image
 
 cv.waitKey(0)
+cv.destroyAllWindows()

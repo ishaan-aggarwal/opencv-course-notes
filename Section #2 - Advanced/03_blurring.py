@@ -42,3 +42,4 @@ cv.imshow('Bilateral blur', bilateral)
 # NOTE: higher values for parameters in median and bilateral lead to a washed out, smudged looking result
 
 cv.waitKey(0)
+cv.destroyAllWindows()

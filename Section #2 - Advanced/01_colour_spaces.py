@@ -35,3 +35,4 @@ hsv_bgr = cv.cvtColor(hsv, cv.COLOR_HSV2BGR)
 cv.imshow('HSV --> BGR', hsv_bgr)
 
 cv.waitKey(0)
+cv.destroyAllWindows()

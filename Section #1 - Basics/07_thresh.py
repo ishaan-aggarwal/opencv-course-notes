@@ -18,3 +18,4 @@ adaptive_thresh = cv.adaptiveThreshold(gray, 255, cv.ADAPTIVE_THRESH_GAUSSIAN_C,
 cv.imshow('Adaptive Thresholding', adaptive_thresh)
 
 cv.waitKey(0)
+cv.destroyAllWindows()

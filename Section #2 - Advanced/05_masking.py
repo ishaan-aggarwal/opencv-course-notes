@@ -27,3 +27,4 @@ cv.imshow('Random Shaped Masked Image', masked)
 
 
 cv.waitKey(0)
+cv.destroyAllWindows()

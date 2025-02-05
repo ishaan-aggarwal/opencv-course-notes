@@ -66,3 +66,4 @@ cv.imshow('blank with contours using canny', blank)
 # contours using canny is better than using threshold (this is for simpler contours)
 
 cv.waitKey(0)
+cv.destroyAllWindows()
