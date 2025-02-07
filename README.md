@@ -25,7 +25,13 @@ This repository contains my code and notes from the **OpenCV Course** by freeC
 - Bitwise Operations
 - Masking
 - Computing Histograms
-- Gradients and edge detection
+- Gradients and Edge Detection
 
 ### Section 3 - Faces
 - Face Detection with Haar Cascades
+- Face Recognition
+
+## Installating OpenCV
+
+```bash
+pip install opencv-contrib-python
